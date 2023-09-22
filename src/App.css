@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.error{
+  color: red;
+}
+
+#dateBox{
+  height: "40px";
+  width: "60px";
+  border: "5px solid black";
+}
+#col_day{
+  border:'1px solid blue';
+}

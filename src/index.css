@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.error{
+  color: red;
+}
+
+.dateBox{
+  height: "40px";
+  width: "60px";
+  border: "5px solid black";
+}
+.col_day{
+  border:'1px solid blue';
+}
